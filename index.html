@@ -16,10 +16,6 @@
         rel="stylesheet">
 </head>
 
-<!-- #F7B5CA 
-     #F0A8D0
-    -->
-
 <body style="background-color: #ffffff;">
 
         <main>
@@ -36,15 +32,16 @@
             <div id="instruction">
                 <h1 class="fs-0.5" style="font-size: 12px; color: #F0A8D0;">Week 7 - 8</h1>
                 <h2 style="color: #F0A8D0;">Topics:</h2>
-                <button class="butn" id="proceedButton" >♡ Types of Fetal Presentation ♡</button>
-                <button class="butn" id="proceedButton" onclick="startGame()">♡ Mechanism of Labor ♡</button>
-                <button class="butn" id="proceedButton" >♡ Appearance of Newborn Baby ♡</button>
-
+                <button class="butn" onclick="loadTopic('theoriesOfLabor')">♡ Theories of Labor Onset ♡</button>
+            <button class="butn" onclick="loadTopic('fetalPresentation')">♡ Types of Fetal Presentation ♡</button>
+            <button class="butn" onclick="loadTopic('mechanismOfLabor')">♡ Mechanism of Labor ♡</button>
+            <button class="butn" onclick="loadTopic('newbornAppearance')">♡ Appearance of Newborn Baby ♡</button>
+                
             </div>
             <div id="game" style="display: none;">
                 <table id="scoreTable" style="display: none;">
                     <tr>
-                        <th>Test</th>
+                        <th>No.</th>
                         <th>Score</th>
                     </tr>
                     <tr>
