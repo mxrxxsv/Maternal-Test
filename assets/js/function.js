@@ -380,9 +380,9 @@ const questions = {
   newbornAppearance: [
     {
       question:
-        "What is the term for the white, waxy substance that covers a newborn's skin?",
-      options: ["Meconium", "Lanugo", "Vernix caseosa", "Amniotic fluid"],
-      answer: 2,
+        "because of the increased concentration of red blood cells in blood vessels and a decrease in the amount of subcutaneous fat, which makes the blood vessels more visible.",
+      options: ["Ruddy Complexion", "Cyanotic", "Acrocyanosis", "Central cyanosis"],
+      answer: 0,
       clues: [],
     },
   ],
