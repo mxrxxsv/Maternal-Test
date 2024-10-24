@@ -272,6 +272,55 @@ const questions = {
       answer: 2,
       clues: [],
     },
+    {
+        question:
+          "The second important requirements for a successful labor are effective powers of labor",
+        options: ["Passage","Power of Labor", "Passenger",  "Pysche"],
+        answer: 1,
+        clues: [],
+      },
+      {
+        question:
+          "The fourth “P,” or a woman’s psychological outlook, refers to the psychological state or feelings that a woman brings into labor.",
+        options: ["Passage", "Passenger", "Power of Labor", "Pysche"],
+        answer: 3,
+        clues: [],
+      },
+      {
+        question:
+          "The mark of effective uterine contractions is rhythmicity and progressive lengthening and intensity.",
+        options: ["Uterine Contraction", "Dilatation", "Cervical Changes –", "Effacement"],
+        answer: 0,
+        clues: [],
+      },
+      {
+        question:
+          "A contraction consists of three phases: the increment, when the intensity of the contraction increases; the acme, when the contraction is at its strongest; and the decrement, when the intensity decreases",
+        options: ["Uterine Contraction", "Dilatation", "Phases", "Effacement"],
+        answer: 2,
+        clues: [],
+      },
+      {
+        question:
+          "Even more marked than the changes in the body of the uterus are two changes that occur in the cervix: effacement and dilatation.– Even more marked than the changes in the body of the uterus are two changes that occur in the cervix: effacement and dilatation.",
+        options: ["Uterine Contraction", "Cervical Changes", "Phases", "Effacement"],
+        answer: 1,
+        clues: [],
+      },
+      {
+        question:
+          "it is shortening and thinning of the cervical canal. Normally, the canal is approximately 1 to 2 cm long. With effacement, the canal virtually disappears",
+        options: ["Uterine Contraction", "Dilatation", "Phases", "Effacement"],
+        answer: 3,
+        clues: [],
+      },
+      {
+        question:
+          "refers to the enlargement or widening of the cervical canal from an opening a few millimeters wide to one large enough (approximately 10 cm) to permit passage of a fetus",
+        options: ["Uterine Contraction", "Effacement", "Phases", "Dilatation"],
+        answer: 3,
+        clues: [],
+      },
   ],
 
 
