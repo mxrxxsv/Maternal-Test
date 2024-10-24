@@ -432,7 +432,7 @@ function selectOption(event) {
   options[correctOption].classList.add("correct");
   if (selectedOption === correctOption) {
     event.target.classList.add("correct");
-    score += 10;
+    score += 1;
   } else {
     event.target.classList.add("incorrect");
   }
