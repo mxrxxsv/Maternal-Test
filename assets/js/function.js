@@ -385,6 +385,41 @@ const questions = {
       answer: 0,
       clues: [],
     },
+    {
+        question:
+          "Infants with poor central nervous system control, newborn’s lips, hands, and feet are likely to appear blue from immature peripheral circulation",
+        options: ["Ruddy Complexion", "Cyanotic",  "Central cyanosis", "Acrocyanosis"],
+        answer: 1,
+        clues: [],
+      },
+      {
+        question:
+          "is a normal phenomenon in the first 24 to 48 hours after birth.",
+        options: ["Ruddy Complexion", "Cyanotic", "Acrocyanosis", "Central cyanosis"],
+        answer: 2,
+        clues: [],
+      },
+      {
+        question:
+          "always a cause for concern. Central cyanosis indicates decreased oxygenation. It may be the result of a temporary respiratory obstruction or an underlying disease.",
+        options: ["Ruddy Complexion", "Cyanotic", "Acrocyanosis", "Central cyanosis"],
+        answer: 3,
+        clues: [],
+      },
+      {
+        question:
+          "What color in newborns generally indicates infection? ",
+        options: ["Blue", "Pink", "Brown", "Gray"],
+        answer: 3,
+        clues: [],
+      },
+      {
+        question:
+          "because of immature circulation, a newborn who has been lying on his or her side appears red on the dependent side of the body and pale on the upper side",
+        options: ["Ruddy Complexion", "Harlequin Sign", "Generalized mottling", "Central cyanosis"],
+        answer: 1,
+        clues: [],
+      },
   ],
 };
 
